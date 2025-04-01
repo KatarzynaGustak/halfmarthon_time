@@ -1,0 +1,8 @@
+openai
+streamlit
+langfuse
+python-dotenv
+pycaret
+matplotlib
+seaborn
+numpy

@@ -6,4 +6,6 @@ pycaret
 matplotlib
 seaborn
 numpy
+boto3
+
 
